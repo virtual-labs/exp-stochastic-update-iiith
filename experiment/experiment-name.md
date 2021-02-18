@@ -1,1 +1,1 @@
-## Experiment name
+## Hopfield model with stochastic update
