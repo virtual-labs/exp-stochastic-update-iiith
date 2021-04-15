@@ -1,0 +1,9 @@
+- Ensure that the temperature pointer is set to zero intially.
+- Move the mouse cursor over the states in the state transition diagram to find the possible transition from each state.
+- Increase the temperature by clicking at some place on temperature bar.
+- Move the mouse cursor again over the states in the state transition diagram, and note the change in the nature of the transition to stochastic update.
+- Keep increasing and decreasing the temperature, and check the change in probability of transition to states with higher energy in the table provided in the experiment panel.
+- Click on the "Click Here to View the Annealing Schedule" button to go to next panel.
+- Make sure that the temprature of the bar is at 1.0, observe the values obtained for one run of the schedule.
+- Click on successive lower values of temprature on the bar to lower the temprature from 1.0 to 0.0 .
+- Observe the change in the state probabilities in the table provided.
