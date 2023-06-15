@@ -1,0 +1,380 @@
+
+/home/runner/work/exp-stochastic-update-iiith/exp-stochastic-update-iiith/experiment/simulation/backend/venv/lib/python3.7/site-packages/werkzeug/debug/shared/debugger.js
+    1:1   warning  '$' is not defined               no-undef
+    2:8   warning  'EVALEX_TRUSTED' is not defined  no-undef
+    9:7   warning  'CONSOLE_MODE' is not defined    no-undef
+    9:23  warning  'EVALEX' is not defined          no-undef
+   10:21  warning  '$' is not defined               no-undef
+   13:3   warning  '$' is not defined               no-undef
+   14:5   warning  '$' is not defined               no-undef
+   17:3   warning  '$' is not defined               no-undef
+   19:16  warning  '$' is not defined               no-undef
+   24:7   warning  '$' is not defined               no-undef
+   30:9   warning  'EVALEX' is not defined          no-undef
+   31:7   warning  '$' is not defined               no-undef
+   44:3   warning  '$' is not defined               no-undef
+   45:5   warning  '$' is not defined               no-undef
+   46:5   warning  '$' is not defined               no-undef
+   48:3   warning  '$' is not defined               no-undef
+   54:3   warning  '$' is not defined               no-undef
+   58:63  warning  'EVALEX' is not defined          no-undef
+   69:3   warning  '$' is not defined               no-undef
+   71:19  warning  '$' is not defined               no-undef
+   74:7   warning  '$' is not defined               no-undef
+   77:49  warning  'TRACEBACK' is not defined       no-undef
+   78:27  warning  'SECRET' is not defined          no-undef
+   80:11  warning  '$' is not defined               no-undef
+   83:21  warning  '$' is not defined               no-undef
+   95:24  warning  '$' is not defined               no-undef
+   96:30  warning  '$' is not defined               no-undef
+  100:3   warning  '$' is not defined               no-undef
+  105:5   warning  '$' is not defined               no-undef
+  109:17  warning  'SECRET' is not defined          no-undef
+  113:11  warning  'EVALEX_TRUSTED' is not defined  no-undef
+  114:11  warning  '$' is not defined               no-undef
+  133:8   warning  'EVALEX_TRUSTED' is not defined  no-undef
+  134:5   warning  '$' is not defined               no-undef
+  136:55  warning  'SECRET' is not defined          no-undef
+  138:5   warning  '$' is not defined               no-undef
+  139:7   warning  '$' is not defined               no-undef
+  152:17  warning  '$' is not defined               no-undef
+  156:16  warning  '$' is not defined               no-undef
+  158:14  warning  '$' is not defined               no-undef
+  161:7   warning  '$' is not defined               no-undef
+  162:59  warning  'SECRET' is not defined          no-undef
+  163:19  warning  '$' is not defined               no-undef
+  164:9   warning  '$' is not defined               no-undef
+  165:24  warning  '$' is not defined               no-undef
+  168:21  warning  '$' is not defined               no-undef
+  171:17  warning  '$' is not defined               no-undef
+  189:17  warning  '$' is not defined               no-undef
+
+/home/runner/work/exp-stochastic-update-iiith/exp-stochastic-update-iiith/experiment/simulation/backend/venv/lib/python3.7/site-packages/werkzeug/debug/shared/jquery.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:5433   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:5916   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6170   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6614   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7404   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9497   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9807   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11608  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12183  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12221  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13234  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13546  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15374  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15645  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15843  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16217  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16907  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18727  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18827  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18887  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19071  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20240  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21514  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21625  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:23791  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:33395  warning  Empty block statement                                                      no-empty
+  2:37269  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:38490  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:38606  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39234  warning  Empty block statement                                                      no-empty
+  2:46727  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:49033  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:50593  warning  Empty block statement                                                      no-empty
+  2:58406  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:59575  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65215  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66958  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67024  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67328  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67394  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67801  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68078  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:73449  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:75043  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:75823  warning  'r.href' is assigned to itself                                             no-self-assign
+  2:80414  warning  Empty block statement                                                      no-empty
+  2:83525  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:87869  warning  'define' is not defined                                                    no-undef
+  2:87881  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-stochastic-update-iiith/exp-stochastic-update-iiith/experiment/simulation/exp.js
+    27:5    warning  'startX' is defined but never used                               no-unused-vars
+    27:13   warning  'startY' is defined but never used                               no-unused-vars
+    32:5    warning  'probOFtr' is assigned a value but never used                    no-unused-vars
+    45:5    warning  'clickX' is assigned a value but never used                      no-unused-vars
+    46:10   warning  'setup' is defined but never used                                no-unused-vars
+    48:18   warning  'createCanvas' is not defined                                    no-undef
+    51:3    warning  'cursor' is not defined                                          no-undef
+    51:10   warning  'CROSS' is not defined                                           no-undef
+    52:3    warning  'background' is not defined                                      no-undef
+    53:3    warning  'fill' is not defined                                            no-undef
+    54:3    warning  'rect' is not defined                                            no-undef
+    55:3    warning  'stroke' is not defined                                          no-undef
+    56:3    warning  'rect' is not defined                                            no-undef
+    64:3    warning  'fill' is not defined                                            no-undef
+    68:10   warning  'draw' is defined but never used                                 no-unused-vars
+    81:3    warning  'fill' is not defined                                            no-undef
+    82:3    warning  'rect' is not defined                                            no-undef
+   166:7    warning  'activation' is assigned a value but never used                  no-unused-vars
+   296:9    warning  'mouseX' is not defined                                          no-undef
+   296:40   warning  'mouseX' is not defined                                          no-undef
+   296:74   warning  'mouseY' is not defined                                          no-undef
+   296:105  warning  'mouseY' is not defined                                          no-undef
+   304:19   warning  'abs' is not defined                                             no-undef
+   305:11   warning  'stroke' is not defined                                          no-undef
+   306:11   warning  'line' is not defined                                            no-undef
+   307:11   warning  'line' is not defined                                            no-undef
+   308:11   warning  'line' is not defined                                            no-undef
+   309:11   warning  'stroke' is not defined                                          no-undef
+   311:11   warning  'fill' is not defined                                            no-undef
+   312:11   warning  'rect' is not defined                                            no-undef
+   313:11   warning  'fill' is not defined                                            no-undef
+   314:11   warning  'rect' is not defined                                            no-undef
+   315:11   warning  'fill' is not defined                                            no-undef
+   316:11   warning  'textSize' is not defined                                        no-undef
+   317:11   warning  'text' is not defined                                            no-undef
+   318:11   warning  'text' is not defined                                            no-undef
+   319:11   warning  'text' is not defined                                            no-undef
+   320:11   warning  'text' is not defined                                            no-undef
+   321:11   warning  'text' is not defined                                            no-undef
+   322:11   warning  'text' is not defined                                            no-undef
+   324:11   warning  'noStroke' is not defined                                        no-undef
+   459:3    warning  'fill' is not defined                                            no-undef
+   460:3    warning  'stroke' is not defined                                          no-undef
+   465:7    warning  'line' is not defined                                            no-undef
+   468:3    warning  'stroke' is not defined                                          no-undef
+   471:5    warning  'ellipse' is not defined                                         no-undef
+   473:3    warning  'noStroke' is not defined                                        no-undef
+   474:3    warning  'stroke' is not defined                                          no-undef
+   476:3    warning  'rect' is not defined                                            no-undef
+   477:3    warning  'fill' is not defined                                            no-undef
+   478:3    warning  'rect' is not defined                                            no-undef
+   479:3    warning  'line' is not defined                                            no-undef
+   480:3    warning  'line' is not defined                                            no-undef
+   483:3    warning  'textSize' is not defined                                        no-undef
+   484:3    warning  'fill' is not defined                                            no-undef
+   485:3    warning  'textSize' is not defined                                        no-undef
+   486:3    warning  'text' is not defined                                            no-undef
+   487:3    warning  'text' is not defined                                            no-undef
+   488:3    warning  'text' is not defined                                            no-undef
+   489:3    warning  'fill' is not defined                                            no-undef
+   490:3    warning  'text' is not defined                                            no-undef
+   491:3    warning  'text' is not defined                                            no-undef
+   492:3    warning  'text' is not defined                                            no-undef
+   493:3    warning  'textSize' is not defined                                        no-undef
+   494:3    warning  'fill' is not defined                                            no-undef
+   497:5    warning  'text' is not defined                                            no-undef
+   500:3    warning  'fill' is not defined                                            no-undef
+   501:3    warning  'text' is not defined                                            no-undef
+   503:3    warning  'text' is not defined                                            no-undef
+   505:3    warning  'text' is not defined                                            no-undef
+   507:3    warning  'fill' is not defined                                            no-undef
+   508:3    warning  'textSize' is not defined                                        no-undef
+   509:3    warning  'text' is not defined                                            no-undef
+   511:3    warning  'text' is not defined                                            no-undef
+   513:3    warning  'text' is not defined                                            no-undef
+   515:3    warning  'text' is not defined                                            no-undef
+   517:3    warning  'text' is not defined                                            no-undef
+   519:3    warning  'text' is not defined                                            no-undef
+   521:3    warning  'fill' is not defined                                            no-undef
+   522:3    warning  'textSize' is not defined                                        no-undef
+   523:3    warning  'text' is not defined                                            no-undef
+   531:3    warning  'stroke' is not defined                                          no-undef
+   532:3    warning  'fill' is not defined                                            no-undef
+   533:3    warning  'rect' is not defined                                            no-undef
+   534:3    warning  'noStroke' is not defined                                        no-undef
+   535:3    warning  'fill' is not defined                                            no-undef
+   536:3    warning  'rect' is not defined                                            no-undef
+   537:3    warning  'fill' is not defined                                            no-undef
+   538:3    warning  'stroke' is not defined                                          no-undef
+   539:3    warning  'textSize' is not defined                                        no-undef
+   542:5    warning  'line' is not defined                                            no-undef
+   545:7    warning  'text' is not defined                                            no-undef
+   546:7    warning  'text' is not defined                                            no-undef
+   549:3    warning  'text' is not defined                                            no-undef
+   550:3    warning  'noStroke' is not defined                                        no-undef
+   558:3    warning  'sort' is not defined                                            no-undef
+   605:7    warning  'fill' is not defined                                            no-undef
+   606:7    warning  'rect' is not defined                                            no-undef
+   607:7    warning  'fill' is not defined                                            no-undef
+   608:7    warning  'textSize' is not defined                                        no-undef
+   609:7    warning  'text' is not defined                                            no-undef
+   610:7    warning  'text' is not defined                                            no-undef
+   611:7    warning  'text' is not defined                                            no-undef
+   612:7    warning  'text' is not defined                                            no-undef
+   620:7    warning  'fill' is not defined                                            no-undef
+   621:7    warning  'rect' is not defined                                            no-undef
+   622:7    warning  'fill' is not defined                                            no-undef
+   623:7    warning  'textSize' is not defined                                        no-undef
+   624:7    warning  'text' is not defined                                            no-undef
+   625:7    warning  'text' is not defined                                            no-undef
+   626:7    warning  'text' is not defined                                            no-undef
+   627:7    warning  'text' is not defined                                            no-undef
+   646:17   warning  'abs' is not defined                                             no-undef
+   647:9    warning  'stroke' is not defined                                          no-undef
+   648:9    warning  'line' is not defined                                            no-undef
+   649:9    warning  'line' is not defined                                            no-undef
+   650:9    warning  'line' is not defined                                            no-undef
+   651:9    warning  'fill' is not defined                                            no-undef
+   652:9    warning  'triangle' is not defined                                        no-undef
+   653:9    warning  'noFill' is not defined                                          no-undef
+   654:9    warning  'noStroke' is not defined                                        no-undef
+   660:36   warning  'clickVALY' is defined but never used                            no-unused-vars
+   662:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   662:7    warning  Unexpected constant condition                                    no-constant-condition
+   666:5    warning  'fill' is not defined                                            no-undef
+   667:5    warning  'rect' is not defined                                            no-undef
+   668:5    warning  'fill' is not defined                                            no-undef
+   669:5    warning  'textSize' is not defined                                        no-undef
+   670:5    warning  'text' is not defined                                            no-undef
+   671:5    warning  'text' is not defined                                            no-undef
+   675:10   warning  'mouseClicked' is defined but never used                         no-unused-vars
+   679:9    warning  'mouseX' is not defined                                          no-undef
+   679:22   warning  'mouseX' is not defined                                          no-undef
+   679:36   warning  'mouseY' is not defined                                          no-undef
+   679:49   warning  'mouseY' is not defined                                          no-undef
+   681:11   warning  'mouseButton' is not defined                                     no-undef
+   681:24   warning  'LEFT' is not defined                                            no-undef
+   684:32   warning  'mouseX' is not defined                                          no-undef
+   685:32   warning  'mouseY' is not defined                                          no-undef
+   686:18   warning  'mouseX' is not defined                                          no-undef
+   692:7    warning  'mouseX' is not defined                                          no-undef
+   692:20   warning  'mouseX' is not defined                                          no-undef
+   692:37   warning  'mouseY' is not defined                                          no-undef
+   692:51   warning  'mouseY' is not defined                                          no-undef
+   699:9    warning  'mouseX' is not defined                                          no-undef
+   699:22   warning  'mouseX' is not defined                                          no-undef
+   699:35   warning  'mouseY' is not defined                                          no-undef
+   699:49   warning  'mouseY' is not defined                                          no-undef
+   701:16   warning  'mouseY' is not defined                                          no-undef
+   705:23   warning  'mouseY' is not defined                                          no-undef
+   727:9    warning  'mouseX' is not defined                                          no-undef
+   727:22   warning  'mouseX' is not defined                                          no-undef
+   727:36   warning  'mouseY' is not defined                                          no-undef
+   727:50   warning  'mouseY' is not defined                                          no-undef
+   752:5    warning  'stroke' is not defined                                          no-undef
+   753:5    warning  'line' is not defined                                            no-undef
+   754:5    warning  'fill' is not defined                                            no-undef
+   755:5    warning  'ellipse' is not defined                                         no-undef
+   756:5    warning  'noStroke' is not defined                                        no-undef
+   764:3    warning  'fill' is not defined                                            no-undef
+   765:3    warning  'rect' is not defined                                            no-undef
+   766:3    warning  'fill' is not defined                                            no-undef
+   767:3    warning  'stroke' is not defined                                          no-undef
+   770:5    warning  'line' is not defined                                            no-undef
+   774:5    warning  'line' is not defined                                            no-undef
+   776:3    warning  'noStroke' is not defined                                        no-undef
+   777:3    warning  'fill' is not defined                                            no-undef
+   780:5    warning  'fill' is not defined                                            no-undef
+   781:5    warning  'textSize' is not defined                                        no-undef
+   782:5    warning  'text' is not defined                                            no-undef
+   786:7    warning  'fill' is not defined                                            no-undef
+   787:7    warning  'textSize' is not defined                                        no-undef
+   788:7    warning  'text' is not defined                                            no-undef
+   791:7    warning  'text' is not defined                                            no-undef
+   794:3    warning  'fill' is not defined                                            no-undef
+   795:3    warning  'rect' is not defined                                            no-undef
+   796:3    warning  'stroke' is not defined                                          no-undef
+   797:3    warning  'rect' is not defined                                            no-undef
+   798:3    warning  'noStroke' is not defined                                        no-undef
+   799:3    warning  'textSize' is not defined                                        no-undef
+   801:3    warning  'fill' is not defined                                            no-undef
+   802:3    warning  'text' is not defined                                            no-undef
+   815:7    warning  'tableVal' is defined but never used                             no-unused-vars
+   820:5    warning  'fill' is not defined                                            no-undef
+   821:5    warning  'rect' is not defined                                            no-undef
+   825:11   warning  'loadImage' is not defined                                       no-undef
+   826:11   warning  'loadImage' is not defined                                       no-undef
+   827:5    warning  'image' is not defined                                           no-undef
+   828:5    warning  'image' is not defined                                           no-undef
+   830:13   warning  'loadStrings' is not defined                                     no-undef
+   837:32   warning  'float' is not defined                                           no-undef
+   841:5    warning  'textSize' is not defined                                        no-undef
+   842:5    warning  'fill' is not defined                                            no-undef
+   843:5    warning  'text' is not defined                                            no-undef
+   844:5    warning  'text' is not defined                                            no-undef
+   845:5    warning  'fill' is not defined                                            no-undef
+   846:5    warning  'rect' is not defined                                            no-undef
+   847:5    warning  'stroke' is not defined                                          no-undef
+   848:5    warning  'rect' is not defined                                            no-undef
+   849:5    warning  'noStroke' is not defined                                        no-undef
+   850:5    warning  'textSize' is not defined                                        no-undef
+   851:5    warning  'fill' is not defined                                            no-undef
+   852:5    warning  'text' is not defined                                            no-undef
+   853:5    warning  'fill' is not defined                                            no-undef
+   854:5    warning  'text' is not defined                                            no-undef
+   857:5    warning  'fill' is not defined                                            no-undef
+   859:5    warning  'rect' is not defined                                            no-undef
+   860:5    warning  'rect' is not defined                                            no-undef
+   861:5    warning  'fill' is not defined                                            no-undef
+   862:5    warning  'stroke' is not defined                                          no-undef
+   864:5    warning  'rect' is not defined                                            no-undef
+   865:5    warning  'noStroke' is not defined                                        no-undef
+   866:5    warning  'fill' is not defined                                            no-undef
+   869:7    warning  'stroke' is not defined                                          no-undef
+   870:7    warning  'line' is not defined                                            no-undef
+   871:7    warning  'noStroke' is not defined                                        no-undef
+   877:5    warning  'fill' is not defined                                            no-undef
+   878:5    warning  'text' is not defined                                            no-undef
+   879:5    warning  'text' is not defined                                            no-undef
+   880:5    warning  'text' is not defined                                            no-undef
+   881:5    warning  'textSize' is not defined                                        no-undef
+   882:5    warning  'text' is not defined                                            no-undef
+   883:5    warning  'text' is not defined                                            no-undef
+   884:5    warning  'text' is not defined                                            no-undef
+   885:5    warning  'text' is not defined                                            no-undef
+   893:7    warning  'fill' is not defined                                            no-undef
+   895:7    warning  'rect' is not defined                                            no-undef
+   896:7    warning  'noFill' is not defined                                          no-undef
+   897:7    warning  'fill' is not defined                                            no-undef
+   898:7    warning  'textSize' is not defined                                        no-undef
+   899:7    warning  'text' is not defined                                            no-undef
+   900:7    warning  'text' is not defined                                            no-undef
+   901:7    warning  'noStroke' is not defined                                        no-undef
+   908:3    warning  'stroke' is not defined                                          no-undef
+   909:3    warning  'fill' is not defined                                            no-undef
+   911:3    warning  'rect' is not defined                                            no-undef
+   912:3    warning  'noStroke' is not defined                                        no-undef
+   924:3    warning  'rect' is not defined                                            no-undef
+   925:3    warning  'fill' is not defined                                            no-undef
+   926:3    warning  'rect' is not defined                                            no-undef
+   929:5    warning  'fill' is not defined                                            no-undef
+   930:5    warning  'stroke' is not defined                                          no-undef
+   931:5    warning  'line' is not defined                                            no-undef
+   932:5    warning  'text' is not defined                                            no-undef
+   933:5    warning  'text' is not defined                                            no-undef
+   934:5    warning  'noStroke' is not defined                                        no-undef
+  1018:5    warning  'text' is not defined                                            no-undef
+  1019:5    warning  'text' is not defined                                            no-undef
+  1038:7    warning  'text' is not defined                                            no-undef
+  1039:7    warning  'text' is not defined                                            no-undef
+  1043:7    warning  'textSize' is not defined                                        no-undef
+  1044:7    warning  'text' is not defined                                            no-undef
+  1049:9    warning  'text' is not defined                                            no-undef
+  1050:9    warning  'stroke' is not defined                                          no-undef
+  1052:9    warning  'line' is not defined                                            no-undef
+  1053:9    warning  'noStroke' is not defined                                        no-undef
+  1058:5    warning  'stroke' is not defined                                          no-undef
+  1059:5    warning  'line' is not defined                                            no-undef
+  1060:5    warning  'noStroke' is not defined                                        no-undef
+  1069:7    warning  'textSize' is not defined                                        no-undef
+  1070:7    warning  'fill' is not defined                                            no-undef
+  1075:7    warning  'text' is not defined                                            no-undef
+  1078:5    warning  'stroke' is not defined                                          no-undef
+  1079:5    warning  'line' is not defined                                            no-undef
+  1080:5    warning  'line' is not defined                                            no-undef
+  1081:5    warning  'line' is not defined                                            no-undef
+  1082:5    warning  'line' is not defined                                            no-undef
+  1083:5    warning  'line' is not defined                                            no-undef
+  1084:5    warning  'line' is not defined                                            no-undef
+  1085:5    warning  'line' is not defined                                            no-undef
+  1086:5    warning  'line' is not defined                                            no-undef
+  1087:5    warning  'noStroke' is not defined                                        no-undef
+
+✖ 371 problems (0 errors, 371 warnings)
+

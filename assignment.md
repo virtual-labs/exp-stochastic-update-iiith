@@ -1,0 +1,4 @@
+- Explain with the help of a state transition diagram the meaning of stable states and false minima.
+- How to overcome the effects of false minima?
+- What is meant by stochastic update of a neuron?
+- Explain the concept of equilibrium in stochastic neural networks.
